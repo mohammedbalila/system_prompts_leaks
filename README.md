@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://go.asgeirtj.workers.dev/latitude">
-    <img src=".github/latitude-dark.png" alt="Latitude Logo" width="700"/>
+    Latitude
   </a>
 </p>
 
@@ -20,6 +20,8 @@
 <div align="center">
 
 # System Prompts Leaks
+
+**Text-only fork:** This fork retains only Markdown (`.md`) and plain-text (`.txt`) files for sharing. Scripts, configuration files, schemas, images, fonts, and other assets have been removed; references and code examples inside the documents remain as reference material. License notices are preserved as `.txt` files. Download the `main` branch ZIP to share the current files without Git history.
 
 The full verbatim system prompts behind the most popular chatbots in the world. Carefully curated and complete. Feel free to open up a PR or get in contact if you got a different result.
 
@@ -115,7 +117,7 @@ The full verbatim system prompts behind the most popular chatbots in the world. 
 | Product | Prompt |
 |---------|--------|
 | **Claude Projects** | [**Claude Projects - Thread Claude system prompt**](Anthropic/claude-projects-thread-claude.md) |
-| **Claude Design** | [**Claude Design system prompt**](Anthropic/claude-design/claude-design.md) · [skills](Anthropic/claude-design/skills) · [starter components](Anthropic/claude-design/starter-components) |
+| **Claude Design** | [**Claude Design system prompt**](Anthropic/claude-design/claude-design.md) · [skills](Anthropic/claude-design/skills) |
 | **Claude Cowork** | [**Claude Cowork system prompt**](Anthropic/claude-cowork/claude-cowork.md) · [Dispatch](Anthropic/claude-cowork/claude-cowork-dispatch.md) · [setup skills](Anthropic/claude-cowork) |
 | **Claude Science** | [**Claude Science system prompt**](Anthropic/claude-science.md) |
 | Claude for Microsoft 365 | [Claude for Excel](Anthropic/claude-for-excel.md) · [Claude for Word](Anthropic/claude-for-word.md) · [Claude in PowerPoint](Anthropic/claude-in-powerpoint.md) |
