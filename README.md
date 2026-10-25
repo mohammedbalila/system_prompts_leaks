@@ -21,7 +21,7 @@
 
 # System Prompts Leaks
 
-**Text-only fork:** This fork contains only Markdown (`.md`) and plain-text (`.txt`) files for sharing. Scripts, configuration, schemas, templates, and other text-based files are preserved byte-for-byte with `.txt` appended to their original filenames (for example, `script.py.txt` or `manifest.yaml.txt`). Remove the final `.txt` to recover an original filename; references inside the documents still use those original names. The image and font assets are omitted. License notices are preserved as `.txt` files. Download the `main` branch ZIP to share these files without Git history.
+**Text-only fork:** This fork contains only Markdown (`.md`) and plain-text (`.txt`) files for sharing. Text-based files from other formats use a single `.txt` extension, such as `helper.txt` or `manifest.txt`, with their contents preserved byte-for-byte. Files with the same base name use a numbered suffix to keep both copies. References inside the documents retain the original source filenames. The image and font assets are omitted. License notices are preserved as `.txt` files. Download the `main` branch ZIP to share these files without Git history.
 
 Former symbolic links are regular text files in this fork. Markdown copies contain their target documents; other copies retain the original relative target path as text.
 
